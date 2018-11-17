@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Room
+  - Laser
+  - Player
+  - Ground
+  - FieldBackground
+  - FieldForeground
+  - Field
+  - Coin
+  - CoinContainer
+  - MainCanvas
+  - LaserCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Test
+    uniqueID: 515028791
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 457144719
+    locked: 0
+  - name: Objects
+    uniqueID: 1415388221
+    locked: 0
+  - name: Player
+    uniqueID: 621010839
+    locked: 0
